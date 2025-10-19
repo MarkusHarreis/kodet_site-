@@ -188,6 +188,16 @@ nav {
   background-repeat: no-repeat;
 }
 
+@media (max-width: 800px) {
+  .baggrund {
+    height: 100vh;
+    background-image: url(Billeder/mobil.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+
 .desktop {
   margin-left: 700px;
   margin-top: 30px;
@@ -206,7 +216,7 @@ nav {
 @media (max-width: 800px) {
   .mobil {
     display: block;
-    font-size: 50px;
+    font-size: 68px;
     margin-left: 35px;
     margin-top: 10px;
     font-family: "DM Serif Display", serif;
@@ -340,6 +350,25 @@ body {
   color: hsl(0, 0%, 20%);
   font-size: 25px;
   margin-left: 60px;
+}
+
+@media (max-width: 800px) {
+  .h1_des {
+    font-family: "DM Serif Display", serif;
+    font-weight: 500;
+    font-style: normal;
+    color: hsl(0, 0%, 20%);
+    font-size: 20px;
+    margin-left: 60px;
+  }
+  .h1_pak {
+    font-family: "DM Serif Display", serif;
+    font-weight: 500;
+    font-style: normal;
+    color: hsl(0, 0%, 20%);
+    font-size: 20px;
+    margin-left: 60px;
+  }
 }
 
 @media (max-width: 800px) {
