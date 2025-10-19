@@ -228,9 +228,9 @@ nav {
 }
 footer {
   background-color: #a9bcab;
-  padding-left: 40px;
-  padding-right: 40px;
-  margin-top: 40px;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-top: 50px;
   margin-bottom: 30px;
 }
 
@@ -290,7 +290,7 @@ ul {
   height: 200px;
   object-fit: cover;
   border-radius: 8px;
-  margin-bottom: 8px;
+  margin-bottom: 2px;
 }
 
 .grid_1-1-1-1 {
