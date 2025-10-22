@@ -182,7 +182,7 @@ nav {
 
 .baggrund {
   height: 100vh;
-  background-image: url(Billeder/forside.jpg);
+  background-image: url(Billeder/forside.webp);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -191,7 +191,7 @@ nav {
 @media (max-width: 800px) {
   .baggrund {
     height: 100vh;
-    background-image: url(Billeder/mobil.jpg);
+    background-image: url(Billeder/mobil.webp);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
